@@ -7,3 +7,5 @@ The Sparkfun Blackboard Artemis board is replaced by the Sparkfun Redboard Artem
 
 You can learn more about Astromech droid beacons here https://github.com/amandagrice/astromech. NOTE: it appears that the repo was removed and this link is dead :-(
 
+Another link with information about Astromech droid beacons https://github.com/ruthsarian/Droid-Toolbox
+
